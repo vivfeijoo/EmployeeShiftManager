@@ -1,2 +1,10 @@
-# EmployeeShiftManager
-Python automation tool to manage employee shifts and store the data in an SQLite database.
+# Employee Shift Manager
+
+A simple console application built with Python and SQLite that allows you to manage employee work shifts.
+
+## Features
+- Add new shifts
+- View saved shifts
+- (Planned: Edit & delete shifts)
+
+## How to Run
